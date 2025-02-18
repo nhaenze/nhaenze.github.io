@@ -1,0 +1,45 @@
+---
+title: "Research"
+---
+
+
+## Political determinants of hazard impacts
+
+
+What determines the societal and humanitarian impacts of natural hazards? When do natural hazards become natural disasters? My research explores how political and institutional factors shape societies' vulnerability to environmental threats like storms, floods, and droughts. I investigate how governance structures, conflict dynamics, and policy choices influence disaster preparedness, response, and long-term resilience.
+
+For example, in an article published in the <i> Journal of Peace Research</i>, I show how the dynamics of ongoing armed conflict exacerbates the humanitarian consequences of natural hazards. By analyzing tropical cyclones in the Philippines, I demonstrate that periods of intense conflict significantly increase cyclone-related fatalities. This research highlights how political instability and violence can undermine disaster response capacity, leaving populations more exposed to environmental risks.
+
+
+ <b>Papers</b> 
+
+<a href="https://journals.sagepub.com/doi/full/10.1177/00223433241265028" target="_blank">When conflict becomes calamity: Understanding the role of armed conflict dynamics in natural disasters, <i> Journal of Peace Research </i>, 2024.</a><br>
+
+<a href="https://doi.org/10.1177/0022343320974096" target="_blank">The effect of traditional agricultural practices on the food consumption of households facing extreme weather events in Tanzania, <i> Agriculture & Food Security </i>, 2025 (With Tim Wegenast, Roos Haer and Marce Birulés).</a><br>
+
+----
+
+## Political consequences of hazard exposure
+
+
+How do natural hazards shape political and social structures? What are the long-term institutional and societal consequences of repeated hazard exposure? In this line of research, I examine how environmental pressures influence social trust, political cohesion, and state-building processes.
+
+In an article with Alexander De Juan, I investigate how prolonged drought conditions influence intra- and inter-ethnic trust, with implications for social cohesion and political stability. We find that the effect of hazard exposure depends on the degree of equality of hazard exposure between ethnic groups.
+
+Another project explores how exactly natural disasters act as "critical junctures" that reshape governance institutions. Historically, external pressures and crises like war have often prompted state expansion and institutional reforms. My research examines how societies that experience repeated exposure to natural hazards adapt their political structures over time, whether through increased state capacity, new taxation mechanisms, or shifts in governance norms. I argue that natural hazards can be a signal of environmental threats that can make citizens more accepting of state authority. By analyzing historical data on earthquakes and fiscal institutions, I show that significant earthquakes have led to an expansion of state authority and capacity.
+
+ <b>Papers</b> 
+
+<a href="https://doi.org/10.1177/0022343320974096" target="_blank">Climate and cohesion: The effects of droughts on intra-ethnic and inter-ethnic trust, <i> Journal of Peace Research </i>, 2021 (With Alexander De Juan). </a><br>
+
+----
+
+## International climate finance
+
+How is international climate finance allocated on the subnational level, and who benefits most from it? My research in this area examines the political and economic factors that influence the distribution of international climate adaptation aid. While donor states and international organizations have pledged to support vulnerable populations, aid allocation often follows political and strategic considerations rather than actual climate risk.
+
+In collaboration with Viktoria Jansesberger, I analyze subnational adaptation aid distribution in the Philippines. Using a novel geo-coded dataset of climate adaptation projects, we investigate whether hazard exposure, vulnerability, or recent disaster impacts drive aid allocation. Our findings suggest that immediate humanitarian crises - rather than structural risk components - are the primary drivers of adaptation aid, raising concerns about the effectiveness of current funding mechanisms in building long-term resilience.
+
+ <b>Papers</b> 
+
+<a href="https://www.peio.me/wp-content/uploads/PEIO17/submission_86.pdf" target="_blank">Who needs it the most: Climate risks as catalysts for climate adaptation aid allocation? <i> Working Paper</i> (With Viktoria Jansesberger). </a><br>

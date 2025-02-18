@@ -1,0 +1,52 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Niklas Hänze"                                # Your name
+  #description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
+  image: img/my_image.jpg
+  
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    
+    # your sub-pages
+    left:
+      - text: "Research"
+        href: projects/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+      - text: "Conferences"
+        href: conferences/index.qmd
+    
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
