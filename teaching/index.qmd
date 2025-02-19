@@ -3,9 +3,11 @@ title: "Teaching"
 ---
 
 ## Climate Change and (Spatial) Inequality
-Master Seminar    
-University of Lucerne Fall Semester 2024
+<b>Master Seminar</b>
 
+<b>University of Lucerne Fall Semester 2024</b>
+
+<b>Course description:</b> The ramifications of climate change present significant challenges for societies worldwide. The increase in frequency and intensity of extreme weather events such as floods and storms, alongside the more gradual onset of events like sea-level rise and desertification, underscores the urgent need for action. However, it is evident that the exposure to and vulnerability towards these climate-related hazards are disproportionately distributed both among and within societies. The adverse impacts of climate hazards are often significantly worse in countries in the Global South. Additionally, the consequences of climate change depend on a host of further societal as well as individual characteristics such as wealth, socioeconomic status, ethnicity, gender, access to power and resources, and (un-)favorable geography. Paradoxically, populations in cooler climates might even derive certain benefits from an increase in global temperatures. This seminar will investigate these unequal impacts of climate change for human societies across a variety of (spatial) scales, ranging from individuals to continents. Through the lens of hazards, exposure, vulnerability, and resilience, we will dissect the multifaceted effects of climate change. Our aim is to elucidate how existing inequalities shape the trajectory and magnitude of these impacts. Furthermore, we will explore the potential of international climate finance as a way to mitigate these global disparities.
 
 ----
 
