@@ -8,7 +8,7 @@ title: "Research Interests"
 
 What determines the societal and humanitarian impacts of natural hazards? When do natural hazards become natural disasters? My research explores how political and institutional factors shape societies' vulnerability to environmental threats like storms, floods, and droughts. I investigate how governance structures, conflict dynamics, and policy choices influence disaster preparedness, response, and long-term resilience.
 
-For example, in an article published in the <i> Journal of Peace Research</i>, I show how the dynamics of ongoing armed conflict exacerbates the humanitarian consequences of natural hazards. By analyzing tropical cyclones in the Philippines, I demonstrate that periods of intense conflict significantly increase cyclone-related fatalities. This research highlights how political instability and violence can undermine disaster response capacity, leaving populations more exposed to environmental risks.
+For example, in an article published in the <i> Journal of Peace Research</i>, I investigate how the dynamics of ongoing armed conflict exacerbates the humanitarian consequences of natural hazards. By analyzing tropical cyclones in the Philippines, I show that periods of high-intensity conflict significantly increase cyclone-related fatalities. This research highlights how political instability and violence can undermine disaster response capacity, leaving populations more exposed to environmental risks.
 
 
  <b>Papers</b> 
@@ -36,6 +36,7 @@ Another project explores how natural disasters act catalyst for the expansion of
 
 <b> Social Trust in a Changing Climate: The Dual Impact of Environmental and Political Stressors. <i> Working Paper.</i> (With William Favell).</b>
 
+<b> Protecting Against Nature By Protecting Nature: Evidence from Europe on Natural Disasters and Conservation. <i> Working Paper.</i> (With Austin Beacham).</b>
 
 ----
 

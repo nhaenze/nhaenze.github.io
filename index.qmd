@@ -23,7 +23,6 @@ about:
 
 ::: {#about-block}
 :::
-<q> <meta name="google-site-verification" content="cOdZoqILcUKZCU5NvPLEiGmxXz-GKjfcbFnVnUY7KNA" />
 
 # Welcome!
 
