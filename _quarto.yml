@@ -5,7 +5,7 @@ website:
   title: "Niklas Hänze"                                # Your name
   #description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
   image: img/my_image.jpg
-  google-analytics: "cOdZoqILcUKZCU5NvPLEiGmxXz"
+  google-analytics: "cOdZoqILcUKZCU5NvPLEiGmxXz-GKjfcbFnVnUY7KNA"
 
   # start of the navigation bar at the top of the website
   navbar:
