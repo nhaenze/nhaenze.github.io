@@ -32,11 +32,11 @@ Another project explores how natural disasters act catalyst for the expansion of
 
 <a href="https://doi.org/10.1177/0022343320974096" target="_blank">Climate and cohesion: The effects of droughts on intra-ethnic and inter-ethnic trust, <i> Journal of Peace Research </i>, 2021 (With Alexander De Juan). </a><br>
 
-<b> Signaling Threat: How Natural Disasters Shape Political Institutions. <i> Working Paper.</i> </b>
+<a> Signaling Threat: How Natural Disasters Shape Political Institutions. <i> Working Paper.</i> </a>
 
-<b> Social Trust in a Changing Climate: The Dual Impact of Environmental and Political Stressors. <i> Working Paper.</i> (With William Favell).</b>
+<a> Social Trust in a Changing Climate: The Dual Impact of Environmental and Political Stressors. <i> Working Paper.</i> (With William Favell).</a>
 
-<b> Protecting Against Nature By Protecting Nature: Evidence from Europe on Natural Disasters and Conservation. <i> Working Paper.</i> (With Austin Beacham).</b>
+<a> Protecting Against Nature By Protecting Nature: Evidence from Europe on Natural Disasters and Conservation. <i> Working Paper.</i> (With Austin Beacham).</a>
 
 ----
 
@@ -48,4 +48,6 @@ In collaboration with Viktoria Jansesberger, I analyze subnational adaptation ai
 
  <b>Papers</b> 
 
-<a href="https://www.peio.me/wp-content/uploads/PEIO17/submission_86.pdf" target="_blank">Who needs it the most: Climate risks as catalysts for climate adaptation aid allocation? <i> Working Paper.</i> (With Viktoria Jansesberger). </a><br>
+<a href="https://www.peio.me/wp-content/uploads/PEIO17/submission_86.pdf" target="_blank">Who needs it the most: Climate risks as catalysts for climate adaptation aid allocation? <i> Working Paper.</i> (With Viktoria Jansesberger). </a>
+
+<a >Localized disparities in climate finance: The sub-national allocation of mitigation and adaptation funds in least developed dountries? <i> Working Paper.</i> (With Gabriele Spilker and Viktoria Jansesberger). </a>
