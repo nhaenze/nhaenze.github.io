@@ -44,10 +44,10 @@ Another project explores how natural disasters act catalyst for the expansion of
 
 How is international climate finance allocated on the subnational level, and who benefits most from it? My research in this area examines the political and economic factors that influence the distribution of international climate adaptation aid. While donor states and international organizations have pledged to support vulnerable populations, aid allocation often follows political and strategic considerations rather than actual climate risk.
 
-In collaboration with Viktoria Jansesberger, I analyze subnational adaptation aid distribution in the Philippines. Using a novel geo-coded dataset of climate adaptation projects, we investigate whether hazard exposure, vulnerability, or recent disaster impacts drive aid allocation. Our findings suggest that immediate humanitarian crises - rather than structural risk components - are the primary drivers of adaptation aid, raising concerns about the effectiveness of current funding mechanisms in building long-term resilience.
+For example, in collaboration with Viktoria Jansesberger, I analyze subnational adaptation aid distribution in the Philippines. Using a novel geo-coded dataset of climate adaptation projects, we investigate whether hazard exposure, vulnerability, or recent disaster impacts drive aid allocation. Our findings suggest that immediate humanitarian crises - rather than structural risk components - are the primary drivers of adaptation aid, raising concerns about the effectiveness of current funding mechanisms in building long-term resilience.
 
  <b>Papers</b> 
 
 <a href="https://www.peio.me/wp-content/uploads/PEIO17/submission_86.pdf" target="_blank">Who needs it the most: Climate risks as catalysts for climate adaptation aid allocation? <i> Working Paper.</i> (With Viktoria Jansesberger). </a>
 
-<a >Localized disparities in climate finance: The sub-national allocation of mitigation and adaptation funds in least developed dountries? <i> Working Paper.</i> (With Gabriele Spilker and Viktoria Jansesberger). </a>
+<a >Localized disparities in climate finance: The sub-national allocation of mitigation and adaptation funds in least developed dountries. <i> Working Paper.</i> (With Gabriele Spilker and Viktoria Jansesberger). </a>
