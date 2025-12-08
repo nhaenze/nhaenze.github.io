@@ -48,6 +48,7 @@ For example, in collaboration with Viktoria Jansesberger, I analyze subnational 
 
  <b>Papers</b> 
 
-<a href="https://www.peio.me/wp-content/uploads/PEIO17/submission_86.pdf" target="_blank">Who needs it the most: Climate risks as catalysts for climate adaptation aid allocation? <i> Working Paper.</i> (With Viktoria Jansesberger). </a>
+<a href="https://doi.org/10.1016/j.polgeo.2025.103450" target="_blank">Does climate adaptation aid reach those most in need? Sub-national evidence from Philippine provinces, <i> Political Geography </i>, 2026 (With Viktoria Jansesberger). </a><br>
+
 
 <a >Localized disparities in climate finance: The sub-national allocation of mitigation and adaptation funds in least developed dountries. <i> Working Paper.</i> (With Gabriele Spilker and Viktoria Jansesberger). </a>
