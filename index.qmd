@@ -25,12 +25,14 @@ about:
 :::
 
 
-I am Niklas Hänze, a PhD candidate at the Department of Politics and Public Administration and the Cluster of Excellence <i>The Politics of Inequality</i> at the <b>University of Konstanz</b> . My research examines the interplay between <b>climate change and politics</b>. Specifically, I focus on how political factors like armed conflict shape societies' <b>vulnerability</b> to climate impacts, the long-term institutional <b>consequences</b> of repeated hazard exposure, and the role of the international community in assisting vulnerable populations through providing <b>climate aid</b>.
+I am Niklas Hänze, a PhD candidate at the Department of Politics and Public Administration and the Cluster of Excellence <i>The Politics of Inequality</i> at the <b>University of Konstanz</b>. My research examines the interplay between climate change and politics. Specifically, I am interested in how political factors like armed conflict shape societies' <b>vulnerability</b> to climate impacts, the <b>security implications of climate change</b>, and the role of the international community in assisting vulnerable populations through <b>climate aid</b>.
 
 I am interested in both the causes and consequences of climate and environmental shocks. On the one hand, I investigate why some societies are more vulnerable to climate hazards than others. I analyze how armed conflict, political institutions, and social inequalities exacerbate climate change impacts. On the other hand, I examine how these shocks shape political dynamics - whether by fueling conflict, triggering institutional reforms, fostering or eroding social cohesion, or attracting international aid. My research combines insights from political science, conflict studies, and environmental research to understand how climate risks interact with politics, institutions, and inequality on the international, national, and subnational levels. Ultimately, I hope to provide evidence-based insights that help protect vulnerable populations in a changing climate.
 
 
-Methodologically, I employ <b>quantitative and spatial approaches of causal inference</b>, as well as <b>formal theory</b> to investigate these questions. My work contributes to the broader understanding of how environmental shocks interact with political structures, influencing governance, conflict, and international aid. Prior to my doctoral studies, I earned a BA from Osnabrück University and an MA from the University of Konstanz.
+My work has been published in the <i>Journal of Peace Research</i>, <i>Political Geography</i>, and <i>Africa Spectrum</i>. Methodologically, I employ <b>quantitative and spatial approaches of causal inference</b>, as well as <b>formal theory</b> to investigate these questions. My research contributes to the broader understanding of how environmental shocks interact with political structures, influencing governance, conflict, and international aid. Prior to my doctoral studies, I earned a BA from Osnabrück University and an MA from the University of Konstanz.
+
+I'm also recipient of the <b>Christiane-Rajewsky-Price</b> (2023) by the <i>German Association for Peace and Conflict Studies</i> (Arbeitsgemeinschaft für Friedens- und Konfliktforschung).
 
 
 
