@@ -22,12 +22,13 @@ title: "Publications"
 <b> How Natural Disaster Shape Political Institutions: Evidence
 from Earthquakes and Income Tax Introductions. <i> Working Paper.</i> </b>
 
-<b> Social Trust in a Changing Climate: The Dual Impact of Environmental and Conflict Stressors. <i> Working Paper.</i> (With William Favell).</b>
+<b> Social Trust in a Changing Climate: The Dual Impact of Environmental and Conflict Stressors. <i> Working Paper.</i> <a href="https://williamfavell.com/">(With William Favell)</a>.</b>
 
+<b> Unequal Adaptation: The Compounding Effect of Conflict on Climate Inequality. <i> Working Paper.</i> <a href="https://williamfavell.com/">(With William Favell)</a>.</b>
 
 <b> <a href="https://www.peio.me/wp-content/uploads/PEIO18/submission_55.pdf" target="_blank">Localized disparities in climate finance: The sub-national allocation of mitigation and adaptation funds in least developed dountries. <i> Working Paper Available at peio.me.</i> (With Gabriele Spilker and Viktoria Jansesberger). </a> <br> </b>
 
-<b> Protecting Against Nature By Protecting Nature: Evidence from Europe on Natural Disasters and Conservation. <i> Working Paper.</i> (With Austin Beacham).</b>
+<b> Protecting Against Nature By Protecting Nature: Evidence from Europe on Natural Disasters and Conservation. <i> Working Paper. </i><a href="https://www.austinbeacham.com/">(With Austin Beacham)</a>.</b>
 
 <!-- ---- -->
 
