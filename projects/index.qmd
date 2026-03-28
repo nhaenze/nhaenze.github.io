@@ -3,14 +3,31 @@ title: "Research Interests"
 ---
 
 
+## International climate finance
+
+How is international climate finance allocated on the subnational level, and who benefits most from it? My research in this area examines the political and economic factors that influence the distribution of international climate adaptation aid. While donor states and international organizations have pledged to support vulnerable populations, aid allocation often follows political and strategic considerations rather than actual climate risk.
+
+For example, in collaboration with Viktoria Jansesberger, we analyze subnational adaptation aid distribution in the Philippines. Using a novel geo-coded dataset of climate adaptation projects, we investigate whether hazard exposure, vulnerability, or recent disaster impacts drive aid allocation. Our findings suggest that immediate humanitarian crises, rather than structural risk components, are the primary drivers of adaptation aid, raising concerns about the effectiveness of current funding mechanisms in building long-term resilience.
+
+Together with Viktoria Jansesberger and Gabriele Spilker, we are in the process of building a detailed project-level database of climate-related development projects by the World Bank. The data we are coding will allow an in-depth analysis of both the determinants and consequences of sub-national allocation patterns. 
+
+ <b>Papers</b>
+
+<a href="https://doi.org/10.1016/j.polgeo.2025.103450" target="_blank">Does climate adaptation aid reach those most in need? Sub-national evidence from Philippine provinces, <i> Political Geography, </i> 2026 (With Viktoria Jansesberger). </a><br>
+
+
+<a href="https://www.peio.me/wp-content/uploads/PEIO18/submission_55.pdf" target="_blank">Localized disparities in climate finance: The sub-national allocation of mitigation and adaptation funds in least developed dountries. <i> Working Paper Available at peio.me </i> (With Gabriele Spilker and Viktoria Jansesberger). </a>
+
+----
+
 ## Political determinants of hazard impacts
 
-How does armed conflict affect the societal and humanitarian impacts of natural hazards? When do natural hazards become natural disasters? My research explores how political and institutional factors shape societies' vulnerability to environmental threats like storms, floods, and droughts. I investigate how conflict dynamics, institutional structures, and policy choices influence disaster preparedness, response, and long-term resilience.
+How does armed conflict affect the societal and humanitarian impacts of natural hazards? When do natural hazards become natural disasters? My research explores how political and institutional factors shape societies’ vulnerability to environmental threats like storms, floods, and droughts. I investigate how conflict dynamics, institutional structures, and policy choices influence disaster preparedness, response, and long-term resilience.
 
 For example, in an article published in the <i> Journal of Peace Research</i>, I investigate how the dynamics of ongoing armed conflict exacerbates the humanitarian consequences of natural hazards. By analyzing tropical cyclones in the Philippines, I show that periods of high-intensity conflict significantly increase cyclone-related fatalities. This research highlights how political instability and violence can undermine disaster response capacity, leaving populations more exposed to environmental risks.
 
 
- <b>Papers</b> 
+ <b>Papers</b>
 
 <a href="https://journals.sagepub.com/doi/full/10.1177/00223433241265028" target="_blank">When conflict becomes calamity: Understanding the role of armed conflict dynamics in natural disasters, <i> Journal of Peace Research, </i> 2025.</a><br>
 
@@ -30,7 +47,7 @@ For example, in an article with Alexander De Juan in the <i> Journal of Peace Re
 
 Another project explores how natural disasters act catalyst for the expansion of state authority. Historically, external pressures like warfare have prompted expansionary institutional reforms. This project examines how and why societies that experience repeated exposure to natural hazards adapt their political structures, whether through increased state capacity, new taxation mechanisms, or shifts in governance norms. I argue that natural hazards are an informational signal that shows that current state institutions are insufficient to provide protection. This, in turn, can make citizens more accepting of increased state authority. By analyzing historical data on earthquakes and fiscal institutions, I show that significant earthquakes have led to an expansion of state authority and capacity.
 
- <b>Papers</b> 
+ <b>Papers</b>
 
 <a href="https://doi.org/10.1177/0022343320974096" target="_blank">Climate and cohesion: The effects of droughts on intra-ethnic and inter-ethnic trust, <i> Journal of Peace Research, </i> 2021 (With Alexander De Juan). </a><br>
 
@@ -39,18 +56,3 @@ Another project explores how natural disasters act catalyst for the expansion of
 <a> Social Trust in a Changing Climate: The Dual Impact of Environmental and Conflict Stressors. <i> Working Paper.</i> (With William Favell).</a>
 
 <a> Protecting Against Nature By Protecting Nature: Evidence from Europe on Natural Disasters and Conservation. <i> Working Paper.</i> (With Austin Beacham).</a>
-
-----
-
-## International climate finance
-
-How is international climate finance allocated on the subnational level, and who benefits most from it? My research in this area examines the political and economic factors that influence the distribution of international climate adaptation aid. While donor states and international organizations have pledged to support vulnerable populations, aid allocation often follows political and strategic considerations rather than actual climate risk.
-
-For example, in collaboration with Viktoria Jansesberger, we analyze subnational adaptation aid distribution in the Philippines. Using a novel geo-coded dataset of climate adaptation projects, we investigate whether hazard exposure, vulnerability, or recent disaster impacts drive aid allocation. Our findings suggest that immediate humanitarian crises, rather than structural risk components, are the primary drivers of adaptation aid, raising concerns about the effectiveness of current funding mechanisms in building long-term resilience.
-
- <b>Papers</b> 
-
-<a href="https://doi.org/10.1016/j.polgeo.2025.103450" target="_blank">Does climate adaptation aid reach those most in need? Sub-national evidence from Philippine provinces, <i> Political Geography, </i> 2026 (With Viktoria Jansesberger). </a><br>
-
-
-<a href="https://www.peio.me/wp-content/uploads/PEIO18/submission_55.pdf" target="_blank">Localized disparities in climate finance: The sub-national allocation of mitigation and adaptation funds in least developed dountries. <i> Working Paper Available at peio.me </i> (With Gabriele Spilker and Viktoria Jansesberger). </a>
